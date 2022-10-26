@@ -7,7 +7,7 @@
 ## DEMONSTRAÇÃO™
 <img src="./assets/carrossel.gif"/>
 
-## TECNOLOGIAS UTILIZADAS
+## TECNOLOGIAS UTILIZADAS👨🏻‍💻
 HTML/CSS, JS, ReactJS (React-icons and framer-motion).
 
 
